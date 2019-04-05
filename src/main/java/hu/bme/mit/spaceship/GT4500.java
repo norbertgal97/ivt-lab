@@ -2,6 +2,7 @@ package hu.bme.mit.spaceship;
 
 /**
 * A simple spaceship with two proton torpedo stores and four lasers
+*Hello
 */
 public class GT4500 implements SpaceShip {
 
@@ -71,7 +72,7 @@ public class GT4500 implements SpaceShip {
               wasPrimaryFiredLast = false;
             }
 
-            // if both of the stores are empty, nothing can be done, return failure
+            // if both of the stores are empty, nothing can be done
           }
         }
         break;
